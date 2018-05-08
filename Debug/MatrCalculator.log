@@ -1,0 +1,6 @@
+﻿  Matriu.cpp
+c:\users\sam\source\repos\matrcalculator\matrcalculator\matriu.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\source\repos\matrcalculator\matrcalculator\matriu.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\source\repos\matrcalculator\matrcalculator\matriu.cpp(161): warning C4018: '<': signed/unsigned mismatch
+  MatrCalculator.vcxproj -> C:\Users\sam\source\repos\MatrCalculator\Debug\MatrCalculator.exe
+  MatrCalculator.vcxproj -> C:\Users\sam\source\repos\MatrCalculator\Debug\MatrCalculator.pdb (Partial PDB)
